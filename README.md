@@ -10,7 +10,7 @@ An alias for fish to clear the output of a shell
 
 # fuck.Fish
 
-Used to run the previously run command as root. So called because of what I say everytime I forget to run sudo before a command I need run as root
+Used to run the previously run command as root. So called because of what I say everytime I forget to run sudo before a command I needed to run as root
 
 # full_update.Fish
 
