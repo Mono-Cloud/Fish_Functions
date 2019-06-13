@@ -2,7 +2,9 @@
 
 ----
 
-A few functions I use within the shell fish. Stored on github so I can quickly use a git clone to have them availablke for use whenever I create a new Linux VM.
+A few functions I use within the shell fish. Stored on github so I can quickly use a git clone to have them availablke for use whenever I create a new Linux VM. 
+
+To be git cloned into `~/.config/fish/functions/.`
 
 # cls.Fish
 
